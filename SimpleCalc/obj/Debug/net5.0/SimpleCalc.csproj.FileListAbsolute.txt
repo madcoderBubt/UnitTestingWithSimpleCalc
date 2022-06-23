@@ -1,0 +1,16 @@
+G:\WorkPlace\UnitTesting\SimpleCalc\bin\Debug\net5.0\SimpleCalc.exe
+G:\WorkPlace\UnitTesting\SimpleCalc\bin\Debug\net5.0\SimpleCalc.deps.json
+G:\WorkPlace\UnitTesting\SimpleCalc\bin\Debug\net5.0\SimpleCalc.runtimeconfig.json
+G:\WorkPlace\UnitTesting\SimpleCalc\bin\Debug\net5.0\SimpleCalc.runtimeconfig.dev.json
+G:\WorkPlace\UnitTesting\SimpleCalc\bin\Debug\net5.0\SimpleCalc.dll
+G:\WorkPlace\UnitTesting\SimpleCalc\bin\Debug\net5.0\ref\SimpleCalc.dll
+G:\WorkPlace\UnitTesting\SimpleCalc\bin\Debug\net5.0\SimpleCalc.pdb
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.csproj.AssemblyReference.cache
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.AssemblyInfoInputs.cache
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.AssemblyInfo.cs
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.csproj.CoreCompileInputs.cache
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.dll
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\ref\SimpleCalc.dll
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.pdb
+G:\WorkPlace\UnitTesting\SimpleCalc\obj\Debug\net5.0\SimpleCalc.genruntimeconfig.cache
